@@ -1,3 +1,5 @@
+[Archived] This repository has been archived.
+
 # Docker CCU-Historian
 
 Multi-platform Docker image for [CCU-Historian](https://github.com/mdzio/ccu-historian).
